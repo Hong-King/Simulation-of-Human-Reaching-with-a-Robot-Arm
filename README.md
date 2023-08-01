@@ -1,7 +1,7 @@
 Author: Junhong Liu.
-\\
+
 Supervisor: Dr. Dietmar Heinke & Dr. Masoumeh Iran Mansouri
-\\
+
 Platform: Matlab 2022b.
 
 # Simulation of Human Reaching with a Robot Arm
