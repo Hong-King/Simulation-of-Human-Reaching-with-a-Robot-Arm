@@ -1,3 +1,6 @@
+Developed by: Junhong Liu.
+Platform: Matlab 2022b.
+
 # Simulation of Human Reaching with a Robot Arm
 
 > Please note: If you want to visualize the robotic arm, the dependent [Robotics Toolbox](https://petercorke.com/toolboxes/robotics-toolbox/) is necessary.
@@ -24,13 +27,19 @@ Besides, we need to solve the problem of trajectory profiles similar in multiple
 
 ## 3 Summary
 
-* We use a 7-DOF robot arm to simulate the human arm.
+* I use a 7-DOF robot arm to simulate the human arm.
 
-* We use forward kinematics and inverse kinematics to control the movement of robot arms.
+* I use forward kinematics and inverse kinematics to control the movement of robot arms.
 
-* We use the Sigmoid function to simulate the human attention shift.
+* I use Pseudo inverse method for solving the Jacobian matrix inversion.
 
-* We use the quintic polynomial interpolation to implement the velocity profile similar.
+* I use Damped Least Squares method (DLS) for Singularity avoidance.
+
+* I use the Sigmoid function to simulate the Human Attention Shift.
+
+* I use the quintic polynomial interpolation to implement the velocity profile similar.
+
+* I use gradient projection method (GPM) for Joint limit avoidance.
 
 > reference
 
