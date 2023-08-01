@@ -6,7 +6,7 @@
 
 How to make robots behave like humans has always been a hot topic. Current research has shown that human reaches are influenced by all objects in the environment and not only the target.
 
-Thus, this project not only considers human-arms movement in single target scenarios, but also reaches in environments with multiple potential targets. Meanwhile, we plan to implement a test environment in MATLAB and use a 6-DOF robot arm model to simulate the human arm. 
+Thus, this project not only considers human-arms movement in single target scenarios, but also reaches in environments with multiple potential targets. Meanwhile, we plan to implement a test environment in MATLAB and use a 7-DOF robot arm model to simulate the human arm. 
 
 ## 2 Methodology
 
@@ -24,15 +24,13 @@ Besides, we need to solve the problem of trajectory profiles similar in multiple
 
 ## 3 Summary
 
-* We use a 6-DOF robot arm to simulate the human arm.
-
-* We developed a demo version of a 3-DOF robot arm.
+* We use a 7-DOF robot arm to simulate the human arm.
 
 * We use forward kinematics and inverse kinematics to control the movement of robot arms.
 
 * We use the Sigmoid function to simulate the human attention shift.
 
-* We plan to use quintic polynomial interpolation to implement the velocity profile similar.
+* We use the quintic polynomial interpolation to implement the velocity profile similar.
 
 > reference
 
