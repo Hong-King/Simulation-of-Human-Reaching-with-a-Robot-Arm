@@ -1,4 +1,6 @@
-Developed by: Junhong Liu.
+Author: Junhong Liu.
+\\
+Supervisor: Dr. Dietmar Heinke & Dr. Masoumeh Iran Mansouri
 \\
 Platform: Matlab 2022b.
 
@@ -45,3 +47,7 @@ Besides, we need to solve the problem of trajectory profiles similar in multiple
 > reference
 
 [1] Maciejewski AA, Klein CA. Obstacle Avoidance for Kinematically Redundant Manipulators in Dynamically Varying Environments. The International Journal of Robotics Research. 1985;4(3):109-117. doi:10.1177/027836498500400308
+
+[2] https://ww2.mathworks.cn/help/robotics/ug/inverse-kinematics-algorithms.html#bve7api
+
+[3] https://journals.sagepub.com/doi/full/10.1177/17298806221104602#bibr26-17298806221104602
