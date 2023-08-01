@@ -46,8 +46,12 @@ Besides, we need to solve the problem of trajectory profiles similar in multiple
 
 > reference
 
-[1] Maciejewski AA, Klein CA. Obstacle Avoidance for Kinematically Redundant Manipulators in Dynamically Varying Environments. The International Journal of Robotics Research. 1985;4(3):109-117. doi:10.1177/027836498500400308
+[1] Maciejewski AA, Klein CA. Obstacle Avoidance for Kinematically Redundant Manipulators in Dynamically Varying Environments. The International Journal of Robotics Research. 1985;4(3):109-117. doi:10.1177/027836498500400308 https://journals.sagepub.com/doi/10.1177/027836498500400308
 
-[2] https://ww2.mathworks.cn/help/robotics/ug/inverse-kinematics-algorithms.html#bve7api
+[2] Xie S, Sun L, Wang Z, Chen G. A speedup method for solving the inverse kinematics problem of robotic manipulators. International Journal of Advanced Robotic Systems. 2022;19(3). doi:10.1177/17298806221104602 https://journals.sagepub.com/doi/full/10.1177/17298806221104602#bibr26-17298806221104602
 
-[3] https://journals.sagepub.com/doi/full/10.1177/17298806221104602#bibr26-17298806221104602
+[3] H. Zghal, R. V. Dubey and J. A. Euler, "Efficient gradient projection optimization for manipulators with multiple degrees of redundancy," Proceedings., IEEE International Conference on Robotics and Automation, Cincinnati, OH, USA, 1990, pp. 1006-1011 vol.2, doi: 10.1109/ROBOT.1990.126123. https://ieeexplore.ieee.org/abstract/document/126123
+
+[4] Kou, C.X., Dai, Y.H. A Modified Self-Scaling Memoryless Broyden–Fletcher–Goldfarb–Shanno Method for Unconstrained Optimization. J Optim Theory Appl 165, 209–224 (2015). https://doi.org/10.1007/s10957-014-0528-4 https://link.springer.com/article/10.1007/s10957-014-0528-4
+
+[5] https://ww2.mathworks.cn/help/robotics/ug/inverse-kinematics-algorithms.html#bve7api
