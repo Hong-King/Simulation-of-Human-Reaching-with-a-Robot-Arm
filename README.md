@@ -44,14 +44,30 @@ Besides, we need to solve the problem of trajectory profiles similar in multiple
 
 * I use gradient projection method (GPM) for Joint limit avoidance.
 
-> reference
+> reference code
 
-[1] Maciejewski AA, Klein CA. Obstacle Avoidance for Kinematically Redundant Manipulators in Dynamically Varying Environments. The International Journal of Robotics Research. 1985;4(3):109-117. doi:10.1177/027836498500400308 https://journals.sagepub.com/doi/10.1177/027836498500400308
+[1] Pseudo_inverse_method_for_7-DOF_manipulator. https://github.com/bhtxy0525/Pseudo_inverse_method_for_7-DOF_manipulator
+[2] Polynomial Interpolation. https://github.com/chauby/PolynomialInterpolation
 
-[2] Xie S, Sun L, Wang Z, Chen G. A speedup method for solving the inverse kinematics problem of robotic manipulators. International Journal of Advanced Robotic Systems. 2022;19(3). doi:10.1177/17298806221104602 https://journals.sagepub.com/doi/full/10.1177/17298806221104602#bibr26-17298806221104602
+> reference paper
 
-[3] H. Zghal, R. V. Dubey and J. A. Euler, "Efficient gradient projection optimization for manipulators with multiple degrees of redundancy," Proceedings., IEEE International Conference on Robotics and Automation, Cincinnati, OH, USA, 1990, pp. 1006-1011 vol.2, doi: 10.1109/ROBOT.1990.126123. https://ieeexplore.ieee.org/abstract/document/126123
+[1] Marr, D. (1982). Vision: A computational investigation into the human representation and processing of visual information. The MIT Press.
 
-[4] Kou, C.X., Dai, Y.H. A Modified Self-Scaling Memoryless Broyden–Fletcher–Goldfarb–Shanno Method for Unconstrained Optimization. J Optim Theory Appl 165, 209–224 (2015). https://doi.org/10.1007/s10957-014-0528-4
+[2] Makwana, M., Zhang, F., Heinke, D., & Song, J. (2022). Continuous action with a neurobiologically inspired computational approach reveals the dynamics of selection history. https://doi.org/10.31234/osf.io/8xgbm
 
-[5] https://ww2.mathworks.cn/help/robotics/ug/inverse-kinematics-algorithms.html#bve7api
+[3] Strauss, S., J.W. Woodgate, P., A. Sami, S., & Heinke, D. (2015). Choice reaching with a LEGO arm robot (CoRLEGO): The motor system guides visual attention to movement-relevant information. Neural Networks,72, 3-12.
+
+[4] Song, J. H., & Nakayama, K. (2008). Target selection in visual search as revealed by movement trajectories. Vision Research, 48, 853–861.
+
+[5] Lamy, D., Antebi, C., Aviani, N., Carmel, T. (2008). Priming of Pop-out provides reliable measures of target activation and distractor inhibition in selective attention. Vision Research 48, 30–41.
+
+[6] Johnson, A., & Proctor, R. W. (2004). Attention: Theory and practice. Sage.
+
+[7] LaBerge, D., & Brown, V. (1989). Theory of attentional operations in shape identification. Psychological Review, 96(1), 101–124.
+
+[8] Siciliano, B., Sciavicco, L., Villani, L., Oriolo, G. (2009). Robotics Modelling, Planning and Control. Springer London.
+
+[9] The Robotics Toolbox. https://petercorke.com/toolboxes/robotics-toolbox/
+
+[10] Shadmehr, R., & Wise, S. P. (2004). The computational neurobiology of reaching and pointing: a foundation for motor learning. MIT press.
+
