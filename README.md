@@ -47,6 +47,7 @@ Besides, we need to solve the problem of trajectory profiles similar in multiple
 > reference code
 
 [1] Pseudo_inverse_method_for_7-DOF_manipulator. https://github.com/bhtxy0525/Pseudo_inverse_method_for_7-DOF_manipulator
+
 [2] Polynomial Interpolation. https://github.com/chauby/PolynomialInterpolation
 
 > reference paper
